@@ -1,0 +1,11 @@
+/**
+ *Style.css
+ *Archivo para dar estilo a la página web
+ */
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    /* background-image: url('../img/collageimages.jpg'); */
+}
